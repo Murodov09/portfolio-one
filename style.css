@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-sm{
+   display: flex;
+}
+
+.Home{
+    display: flex;
+
+}
+.page{
+   margin-left: -300px;
+}
+
+.img-one{
+    margin-left: -1700px;
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+}
+
+.Text-one{
+    color:rgba(193, 194, 199, 1);
+    width: 290px;
+    height: 26px;
+}
+.Text-two{
+    color: rgba(132, 133, 143, 1);
+    width: 290px;
+    height: 10px;
+}
+
+.Text{
+    margin-left: -1600px;
+    margin-top: -60px;
+}
+
+.Parent{
+margin-left: -900px;
+margin-top: -40px;
+}
+
+.Header{
+    margin-top: 250px;
+    margin-left: -1670px;
+}
+
+.btn{
+    width: 200px;
+    margin-top: 260px;
+    margin-left: -465px;
+}
+.Frame{
+    margin-top: 730px;
+    margin-left: -450px;
+}
